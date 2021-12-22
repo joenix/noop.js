@@ -1,0 +1,8 @@
+{
+  "name": "noop.js",
+  "version": "0.0.1",
+  "description": "noop function",
+  "main": "index.js",
+  "author": "joenix",
+  "license": "MIT"
+}
