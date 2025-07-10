@@ -27,13 +27,3 @@ const fn = (callback = noop) {
     callback();
 }
 ```
-
-## 4. Promise
-
-```js
-import { noopPromise } from 'noop.js';
-
-const fn = async (callback = noopPromise) => {
-  await callback();
-};
-```
