@@ -1,7 +1,15 @@
 {
   "name": "noop.js",
-  "version": "0.0.1",
-  "description": "noop function",
+  "version": "0.0.3",
+  "description": "noop.js",
+  "keywords": [
+    "noop",
+    "noop.js",
+    "noop fn",
+    "noop function",
+    "noop import",
+    "noop export"
+  ],
   "main": "index.js",
   "author": "joenix",
   "license": "MIT"
